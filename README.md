@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ren</h1>
-<h3 align="center">A passionate Dev/Cybersec Enthu from India.Relentless Curious</h3>
+<h3 align="center">A passionate Dev/Cybersec Enthu from India.</h3>
 
 - 🌱 I’m currently learning **Django,Dockers,Bin-exp and Boot2root**
 
